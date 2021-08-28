@@ -29,11 +29,15 @@ Inventario maker para cursos
 
 Ejemplo Tablas en MD
 
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
+| Hora  |  L 	|  M  || M	|| J 	|| V 	|
+|-------|:--:	|:---:|:--:	|:--:	|:--:	|
+| 13:00 | IS 	|  IS	| IS 	| IS 	| IS	|
+| 14:00 | LI 	|  LI | LI 	| LI 	|  	  |
+| 15:00 | TI 	| TI 	| TI 	| TI 	| 	  |
+| 16:00	|	TSO | TSO | TSO | TSO |  	  |
+| 17:00 | PLF | PLF | PLF | PLF	| 	  |
+| 18:00 | ABD | ABD | ABD | ABD | ABD |
+
 
 Guias:
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
